@@ -2,7 +2,7 @@
 I'm second year student of the Computer Science class at ITMO University.
 I'm learning programming in Java/Kotlin, most of all I'm attracted to backend development.
 
-##My skills, languages and used frameworks:
+#My skills, languages and used frameworks:
 Kotlin, Java, Git, Bash, JUnit, SQL, Gradle, SAX, RMI, RegExp
 
 For more information about me, you can also read my CV :) 
