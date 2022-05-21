@@ -5,7 +5,8 @@ I'm learning programming in Java/Kotlin, most of all I'm attracted to backend de
 ## My skills, languages and used frameworks:
 Kotlin, Java, Git, Bash, JUnit, SQL, Gradle, SAX, RMI, RegExp
 
-For more information about me, you can also read my CV :) 
+For more information about me, you can also read my [CV](https://github.com/Krisstopher/Krisstopher/blob/main/CV.pdf) :) 
+
 <!--
 **Krisstopher/Krisstopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
